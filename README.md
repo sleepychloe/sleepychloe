@@ -5,7 +5,7 @@
 <p align="center">
   
   - 💻 Currently studying C 
-  - 🐥 Currently working on push_swap
+  - 🐥 Currently working on push_swap in 42 cursus
   - 🐤 Working on GitHub pages to explain most projects ! 
 </p>
 
