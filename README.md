@@ -1,5 +1,5 @@
 
-<h3 align="center"> 🐣Student at 42Paris🐣 </h3>
+<h3 align="center"> 🐣 Student at 42Paris 🐣 </h3>
 
 
 <p align="center">
