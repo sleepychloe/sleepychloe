@@ -13,7 +13,7 @@
 
 </p>
 
-  <p>Apart from coding I play classical piano and trying to read philosophy books</p>
+  <p>Other than coding I play classical piano and trying to read philosophy books</p>
   
   
 
