@@ -1,11 +1,11 @@
 
-<h3 align="center"> Student at 42Paris </h3>
+<h3 align="center"> 🐣Student at 42Paris🐣 </h3>
 
 
 <p align="center">
   
   - 💻 Currently studying C 
-  - 🐣 Currently working on push_swap
+  - 🐥 Currently working on push_swap
   - 🐤 Working on GitHub pages to explain most projects ! 
 </p>
 
