@@ -1,5 +1,5 @@
 
-<h3 align="center"> 🐣 Student at <a href="https://github.com/42Paris">42Paris</a> 🐣 </h3>
+<h2 align="center"> 🐣 Student at <a href="https://github.com/42Paris">42Paris</a> 🐣 </h2>
 
 
 <p align="center">
