@@ -5,8 +5,7 @@
 <p align="center">
   
   - 💻 Currently studying C 
-  - 🐥 Currently working on minitalk in 42 cursus
-  - 🐤 Working on GitHub pages to explain some projects I have already done ! 
+  - 🐥 Currently working on philosophers in 42 cursus
 </p>
 
 
