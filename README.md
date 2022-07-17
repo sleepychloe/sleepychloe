@@ -5,7 +5,7 @@
 <p align="center">
   
   - 💻 Currently studying C 
-  - 🐥 Currently working on project minishell in 42 cursus
+  - 🐥 Currently working on project cub3d in 42 cursus
 </p>
 
 
