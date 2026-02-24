@@ -21,16 +21,3 @@
 <img src="https://github.com/sleepychloe/sleepychloe/assets/78352910/7c76821c-2b58-4e4d-b59c-da1bfde2b6c1" height="40" width="40" alt="css logo"  />
 
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sleepychloe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-
-<div align="center"> 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=sleepychloe&label=Profile%20Views&color=12&icon=9&pretty=false" />
-</a>
-</div>
